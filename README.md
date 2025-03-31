@@ -45,4 +45,4 @@ Contributions are welcome! Please fork the repository and submit pull requests t
 
 Resume Analyzer - Making Job Applications Easier
 
-#### Check out my project : https://ats-resume-analyzer-dx8s8v6thppy44bxgsmrwf.streamlit.app/
+
