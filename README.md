@@ -40,16 +40,9 @@ This Streamlit web application helps analyze resumes against job descriptions us
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests to contribute new features, fix bugs, or improve documentation.
 
-## Support
-For any issues or questions, please reach out via [LinkedIn](https://www.linkedin.com/in/pavankumar-kurapati/).
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-#### Made By [Pavankumar](https://www.linkedin.com/in/pavankumar-kurapati/)
-For Queries, Reach out on [LinkedIn](https://www.linkedin.com/in/pavankumar-kurapati/)  
 Resume Analyzer - Making Job Applications Easier
 
 #### Check out my project : https://ats-resume-analyzer-dx8s8v6thppy44bxgsmrwf.streamlit.app/
